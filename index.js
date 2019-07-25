@@ -1,2 +1,5 @@
-var name = 'Joe';
-var height= '74'; 
+console. log 'joe'
+console. log Joe
+
+console . log 74;
+console . log (height + 1)
